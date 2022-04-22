@@ -13,4 +13,3 @@
 * Hulk
 * heroe nuevo
 * StarLord
-* Issue que se va a dar revert
