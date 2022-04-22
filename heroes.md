@@ -13,3 +13,5 @@
 * Hulk
 * heroe nuevo
 * StarLord
+* Birdman
+* Doctor Strange
