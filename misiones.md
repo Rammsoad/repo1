@@ -19,4 +19,4 @@
 17. relacionado a issue #2
 18. misión nueva
 19. Impresonando a Giovanna
-20. testing verified ok2
+20. testing verified ok2 (signed)
