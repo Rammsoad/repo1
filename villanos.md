@@ -17,3 +17,5 @@
 14. push a origin
 15. push a panque
 16. test desde github a main para actions
+17. Acertijo
+18. Espantapajaros
